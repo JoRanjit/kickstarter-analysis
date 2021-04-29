@@ -1,6 +1,7 @@
 # An analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to unconver trends
-Findings are:
+Performing analysis on Kickstarter data to unconver trends.
+
+Some key points to note are:
   * In US theater is the most successful category
   * In GB plays are the most successful subcatgory
   * May/June seems to be the best months for launching a campaign
