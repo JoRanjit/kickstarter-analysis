@@ -1,5 +1,6 @@
 # An analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to unconver trends.
+
+The file contains activities from week #1 Excel - Performing analysis on Kickstarter data to unconver trends.
 
 Some key points to note are:
   * In US theater is the most successful category
