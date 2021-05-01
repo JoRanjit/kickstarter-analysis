@@ -10,7 +10,7 @@
 
 ### Purpose
 
-	This analysis helps the viewer to understand when is a good time to launch a 'Theater/Play' cmapaign, and the ideal Gaol amounts 
+	This analysis helps the viewer to understand when is a good time to launch a 'Theater/Play' campaign, and the ideal Goal amounts 
 	to set to make it a success.
 
 ## Analysis and Challenges
